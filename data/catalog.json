@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "java-basics",
+      "title": "Java基础面试题",
+      "description": "从基础概念到面向对象、反射、异常与 Java 新特性，按原文顺序逐题阅读。",
+      "questionCount": 79,
+      "sectionCount": 16,
+      "dataPath": "data/banks/java-basics.json",
+      "sourceUrl": "https://www.xiaolincoding.com/interview/java.html"
+    }
+  ],
+  "updatedAt": "2026-10-30T09:33:48.087565+00:00"
+}
